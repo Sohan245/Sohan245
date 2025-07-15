@@ -43,8 +43,6 @@
 ---
 
 ┌─[📡 Contact]
-
-├── 📧 simhasohan245@gmail.com  
-└── 🔗 https://www.linkedin.com/in/sohansimha/ | https://github.com/Sohan245
+└── 🔗 https://www.linkedin.com/in/sohansimha/
 
 > "The quieter you become, the more you can hear." – Anonymous Hacker
