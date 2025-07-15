@@ -1,50 +1,50 @@
-# ┌────────────────────────────────────────────┐
-# │        import HACKER from 'Houston'        │
-# └────────────────────────────────────────────┘
 
-class SohanSimhaPrabhakar:
-    def __init__(self):
-        self.name = "Sohan Simha Prabhakar"
-        self.alias = ["sohan245", "azir.exe"]
-        self.role = "Cybersecurity Researcher | Red Teamer"
-        self.education = "MS in Cybersecurity @ University of Houston"
-        self.status = "BlackHat USA Speaker 🎤"
-        self.location = "Houston, TX, USA"
+👋 Hey, I'm Sohan Simha Prabhakar
 
-    def skills(self):
-        return [
-            "Red Team Ops", "Malware Development", "AI in OffSec",
-            "Local Priv Esc", "Active Directory Enumeration",
-            "Threat Hunting", "KQL", "Python", "Bash", "PowerShell"
-        ]
+┌─[🔐 sohan@cyberdeck]─[~/GitHub]
+└──╼ # whoami
+🧑‍💻 Sohan Simha Prabhakar  
+🎓 MS Cybersecurity @ University of Houston  
+🏴‍☠️ Red Teamer | Malware Dev | AI in OffSec  
+🛠️ CEH (124/125) | CND | CNPen | C-AI/MLPen | TryHackMe Top 1%
 
-    def certs(self):
-        return [
-            "CEH (124/125)", "CND", "CNPen", "C-AI/MLPen"
-        ]
+---
 
-    def projects(self):
-        return {
-            "ReForge": "AI-driven malware framework (BlackHat USA 2025)",
-            "VIEGO": "Encrypted payload generator (IEEE ICAC3N)",
-            "AZIR": "AI Pentest Engine for Zero-Day Automation",
-        }
+┌─[🔥 Featured Projects]
 
-    def terminal_feed(self):
-        return [
-            "🎯 Simulating OT/ICS attacks via ERSPAN ➝ Modbus Pi",
-            "🧠 Training LLMs to generate working exploits from crashes",
-            "💥 Exploit orchestration with local ELF fuzzers (AFL++)"
-        ]
+├── 🐚 ReForge — BlackHat USA 2025 Selected  
+│      ↳ AI-assisted malware framework for simulating evasive payloads  
+│      ↳ Patchable, testable, red-team focused  
 
-    def contact(self):
-        return {
-            "LinkedIn": "https://www.linkedin.com/in/sohansimha/",
-            "GitHub": "https://github.com/Sohan245",
-            "Email": "simhasohan245@gmail.com"
-        }
+├── ☠️ VIEGO — IEEE ICAC3N Published  
+│      ↳ Metasploit-based encrypted payload generator  
+│      ↳ Training-ready for OSCP-level red teamers  
 
+└── 💥 Coming Soon: AI Exploit Generator from AFL++ Crashes (🔥)
 
-if __name__ == "__main__":
-    hacker = SohanSimhaPrabhakar()
-    print("⚡ Welcome to my GitHub — Stay Exploit Ready.")
+---
+
+┌─[🧠 Skills & Tools]
+
+├── 🎯 Offensive: Red Team Ops | Malware Dev | Local Priv Esc  
+├── 🛡️ Defensive: Threat Hunting (KQL, Defender) | SIEM Ops  
+├── 🤖 AI Tools: Model Orchestration | Exploit Path Generation  
+├── 🔍 Recon & Exploit: AD Enum | Powershell | Windows Internals  
+└── 💻 Code: Python, Bash, PowerShell, C (WIP)
+
+---
+
+┌─[📟 Terminal Feed]
+
+├── Simulating OT/ICS attacks via ERSPAN to Modbus-Pi over FortiGate  
+├── Developing AZIR: An AI Pentest Engine for Zero-Day Discovery  
+└── Researching Auto-Reverse Engineering with ELF crashes
+
+---
+
+┌─[📡 Contact]
+
+├── 📧 simhasohan245@gmail.com  
+└── 🔗 https://www.linkedin.com/in/sohansimha/ | https://github.com/Sohan245
+
+> "The quieter you become, the more you can hear." – Anonymous Hacker
